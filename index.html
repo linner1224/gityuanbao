@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="每日 AI 情报站，聚合可信的中文与海外 AI 资讯。" />
+    <title>每日 AI 情报站</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="每日 AI 情报站首页">
+        <span class="brand-mark">AI</span>
+        <span>每日情报站</span>
+      </a>
+      <p class="timezone">日期按 Asia/Shanghai 计算</p>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <p class="eyebrow">DAILY SIGNAL · 少噪音，多线索</p>
+        <h1 id="page-title">几分钟，掌握今天值得关注的 AI 动态</h1>
+        <p class="hero-copy">聚合中文媒体、海外科技媒体与官方博客。每条内容保留原始来源和发布时间。</p>
+        <div class="update-line" id="update-line" role="status">正在读取更新状态…</div>
+      </section>
+
+      <section class="toolbar" aria-label="资讯筛选">
+        <label class="search-field">
+          <span>搜索</span>
+          <input id="search" type="search" placeholder="搜索标题、摘要或来源" autocomplete="off" />
+        </label>
+        <label>
+          <span>来源</span>
+          <select id="source-filter">
+            <option value="all">全部来源</option>
+          </select>
+        </label>
+        <fieldset class="range-filter">
+          <legend>时间范围</legend>
+          <button class="range-button is-active" type="button" data-range="all">全部</button>
+          <button class="range-button" type="button" data-range="today">今天</button>
+          <button class="range-button" type="button" data-range="7d">近 7 天</button>
+        </fieldset>
+      </section>
+
+      <section class="feed" aria-labelledby="feed-title">
+        <div class="feed-heading">
+          <div>
+            <p class="eyebrow">LATEST</p>
+            <h2 id="feed-title">最新资讯</h2>
+          </div>
+          <p id="result-count">0 条</p>
+        </div>
+        <div id="loading" class="empty-state">正在读取资讯…</div>
+        <div id="news-list" class="news-list" aria-live="polite"></div>
+        <div id="empty" class="empty-state" hidden>
+          <h3>没有符合条件的资讯</h3>
+          <p>换个关键词，或清除当前筛选条件。</p>
+          <button id="clear-filters" type="button">清除筛选</button>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>每日 AI 情报站 · 摘要来自来源订阅，不补造发布时间或事实。</p>
+    </footer>
+  </body>
+</html>

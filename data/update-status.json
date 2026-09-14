@@ -1,0 +1,34 @@
+{
+  "updatedAt": "2026-09-14T06:38:47.889445Z",
+  "state": "success",
+  "totalItems": 129,
+  "sources": [
+    {
+      "sourceId": "qbitai",
+      "sourceName": "量子位",
+      "state": "success",
+      "fetchedCount": 10,
+      "importedCount": 10,
+      "newCount": 0,
+      "checkedAt": "2026-09-14T06:38:47.889445Z"
+    },
+    {
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "state": "success",
+      "fetchedCount": 19,
+      "importedCount": 19,
+      "newCount": 0,
+      "checkedAt": "2026-09-14T06:38:47.889445Z"
+    },
+    {
+      "sourceId": "openai-blog",
+      "sourceName": "OpenAI 官方博客",
+      "state": "success",
+      "fetchedCount": 1192,
+      "importedCount": 100,
+      "newCount": 0,
+      "checkedAt": "2026-09-14T06:38:47.889445Z"
+    }
+  ]
+}

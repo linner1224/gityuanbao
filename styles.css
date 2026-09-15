@@ -961,6 +961,26 @@ footer a { min-height: 44px; display: inline-flex; align-items: center; color: v
 }
 
 @media (max-width: 639px) {
+  .site-video-background {
+    inset: -1px;
+    transform: translate3d(0, calc(var(--page-scroll) * -12px), 0) scale(1.01);
+  }
+  .site-video-background::after {
+    opacity: calc(0.02 + var(--page-scroll) * 0.18);
+  }
+  .hero-video {
+    object-position: 50% center;
+    filter: brightness(0.64) contrast(1.08) saturate(0.96);
+    transform: none;
+  }
+  .hero-video-scrim {
+    background: linear-gradient(
+      180deg,
+      rgba(3, 12, 20, 0.12) 0%,
+      rgba(3, 12, 20, 0.2) 48%,
+      rgba(3, 12, 20, 0.52) 100%
+    );
+  }
   .site-header, footer, .briefing-deck, .toolbar, .feed { width: min(100% - 24px, 1180px); }
   .site-header { min-height: 64px; }
   .brand { gap: 8px; }
@@ -969,7 +989,6 @@ footer a { min-height: 44px; display: inline-flex; align-items: center; color: v
   .header-nav { display: none; }
   .hero-content { width: calc(100% - 24px); gap: 18px; padding: 28px 0 24px; }
   .hero-copy-block { padding: 23px 20px 24px; }
-  .hero-video { object-position: 54% center; filter: blur(1px) brightness(0.48) saturate(0.78); }
   .hero-copy-block h1 { font-size: clamp(33px, 10.4vw, 39px); line-height: 1.18; letter-spacing: -0.035em; }
   .hero-copy { margin-block: 18px; font-size: 14px; line-height: 1.7; }
   .hero-actions { gap: 9px 12px; align-items: center; flex-direction: row; }

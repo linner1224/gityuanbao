@@ -46,7 +46,7 @@ python scripts/fetch_news.py --from-fixtures --output <临时目录>/news.json -
 
 工作流：`Update news and deploy Pages`
 
-已观察到 6 次 `schedule` 事件连续成功，时间分别为 2026-09-15 12:39、13:02、13:35、14:01、14:35 和 15:02 UTC。最近一次运行：<https://github.com/linner1224/gityuanbao/actions/runs/34985694529>。
+已观察到 7 次 `schedule` 事件连续成功，时间分别为 2026-09-15 12:39、13:02、13:35、14:01、14:35、15:02 和 15:34 UTC。最近一次运行：<https://github.com/linner1224/gityuanbao/actions/runs/34989391052>。
 
 状态：已验证。GitHub Actions 的计划任务可能有数分钟调度延迟。
 

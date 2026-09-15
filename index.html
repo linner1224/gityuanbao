@@ -2,7 +2,7 @@
 <html lang="zh-CN">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="description" content="Git源宝每日 AI 资讯分享，聚合可信的中文与海外 AI 资讯。" />
     <meta name="theme-color" content="#071522" />
     <meta property="og:type" content="website" />
@@ -22,8 +22,8 @@
     <link rel="icon" type="image/png" sizes="16x16" href="assets/brand/favicon-16.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="assets/brand/favicon-180.png" />
     <title>Git源宝每日 AI 资讯分享</title>
-    <link rel="stylesheet" href="styles.css" />
-    <script src="app.js" defer></script>
+    <link rel="stylesheet" href="styles.css?v=20260915-mobile" />
+    <script src="app.js?v=20260915-mobile" defer></script>
   </head>
   <body>
     <div class="site-video-background" aria-hidden="true">
@@ -45,7 +45,7 @@
 
     <header class="site-header">
       <a class="brand" href="./" aria-label="Git源宝每日 AI 资讯分享首页">
-        <img class="brand-avatar" src="assets/ip/git-yuanbao-main.png" alt="" />
+        <img class="brand-avatar" src="assets/brand/favicon-180.png" width="180" height="180" alt="" decoding="async" />
         <span class="brand-name">Git源宝每日 AI 资讯分享</span>
       </a>
       <nav class="header-nav" aria-label="页面导航">
@@ -84,7 +84,7 @@
               <span class="mascot-orbit orbit-one" aria-hidden="true"></span>
               <span class="mascot-orbit orbit-two" aria-hidden="true"></span>
               <span class="mascot-scan" aria-hidden="true"><i></i></span>
-              <img id="mascot-display" src="assets/ip/git-yuanbao-main.png" alt="经典源宝，佩戴墨镜举着 Git源宝标牌" />
+              <img id="mascot-display" src="assets/ip/git-yuanbao-main.png" width="512" height="512" alt="经典源宝，佩戴墨镜举着 Git源宝标牌" decoding="async" fetchpriority="high" />
               <figcaption>
                 <span>今日值班</span>
                 <strong id="mascot-name">经典源宝</strong>
@@ -92,26 +92,26 @@
             </figure>
 
             <div class="variant-picker" role="group" aria-label="选择源宝值班形态">
-              <button class="variant-option is-active" type="button" data-src="assets/ip/git-yuanbao-main.png" data-name="经典源宝" data-alt="经典源宝，佩戴墨镜举着 Git源宝标牌" aria-pressed="true" title="经典源宝">
-                <img src="assets/ip/git-yuanbao-main.png" alt="" />
+              <button class="variant-option is-active" type="button" data-src="assets/ip/git-yuanbao-main.png" data-name="经典源宝" data-alt="经典源宝，佩戴墨镜举着 Git源宝标牌" aria-label="切换为经典源宝" aria-pressed="true" title="经典源宝">
+                <img src="assets/ip/thumbs/git-yuanbao-main.jpg" width="160" height="160" alt="" decoding="async" />
               </button>
-              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-cyber.jpg" data-name="赛博义体" data-alt="赛博义体源宝" aria-pressed="false" title="赛博义体">
-                <img src="assets/ip/git-yuanbao-cyber.jpg" alt="" />
+              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-cyber.jpg" data-name="赛博义体" data-alt="赛博义体源宝" aria-label="切换为赛博义体源宝" aria-pressed="false" title="赛博义体">
+                <img src="assets/ip/thumbs/git-yuanbao-cyber.jpg" width="160" height="160" alt="" loading="lazy" decoding="async" />
               </button>
-              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-armor.jpg" data-name="机械战甲" data-alt="身穿机械战甲的源宝" aria-pressed="false" title="机械战甲">
-                <img src="assets/ip/git-yuanbao-armor.jpg" alt="" />
+              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-armor.jpg" data-name="机械战甲" data-alt="身穿机械战甲的源宝" aria-label="切换为机械战甲源宝" aria-pressed="false" title="机械战甲">
+                <img src="assets/ip/thumbs/git-yuanbao-armor.jpg" width="160" height="160" alt="" loading="lazy" decoding="async" />
               </button>
-              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-hacker.jpg" data-name="黑客风衣" data-alt="身穿黑客风衣的源宝" aria-pressed="false" title="黑客风衣">
-                <img src="assets/ip/git-yuanbao-hacker.jpg" alt="" />
+              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-hacker.jpg" data-name="黑客风衣" data-alt="身穿黑客风衣的源宝" aria-label="切换为黑客风衣源宝" aria-pressed="false" title="黑客风衣">
+                <img src="assets/ip/thumbs/git-yuanbao-hacker.jpg" width="160" height="160" alt="" loading="lazy" decoding="async" />
               </button>
-              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-scientist.jpg" data-name="AI Scientist" data-alt="AI 科学家源宝" aria-pressed="false" title="AI Scientist">
-                <img src="assets/ip/git-yuanbao-scientist.jpg" alt="" />
+              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-scientist.jpg" data-name="AI Scientist" data-alt="AI 科学家源宝" aria-label="切换为 AI 科学家源宝" aria-pressed="false" title="AI Scientist">
+                <img src="assets/ip/thumbs/git-yuanbao-scientist.jpg" width="160" height="160" alt="" loading="lazy" decoding="async" />
               </button>
-              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-neon.jpg" data-name="霓虹潮服" data-alt="身穿霓虹潮服的源宝" aria-pressed="false" title="霓虹潮服">
-                <img src="assets/ip/git-yuanbao-neon.jpg" alt="" />
+              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-neon.jpg" data-name="霓虹潮服" data-alt="身穿霓虹潮服的源宝" aria-label="切换为霓虹潮服源宝" aria-pressed="false" title="霓虹潮服">
+                <img src="assets/ip/thumbs/git-yuanbao-neon.jpg" width="160" height="160" alt="" loading="lazy" decoding="async" />
               </button>
-              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-commander.jpg" data-name="星舰指挥官" data-alt="星舰指挥官源宝" aria-pressed="false" title="星舰指挥官">
-                <img src="assets/ip/git-yuanbao-commander.jpg" alt="" />
+              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-commander.jpg" data-name="星舰指挥官" data-alt="星舰指挥官源宝" aria-label="切换为星舰指挥官源宝" aria-pressed="false" title="星舰指挥官">
+                <img src="assets/ip/thumbs/git-yuanbao-commander.jpg" width="160" height="160" alt="" loading="lazy" decoding="async" />
               </button>
             </div>
             <p class="mascot-message">

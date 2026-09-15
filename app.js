@@ -695,6 +695,16 @@ function selectMascot(option) {
       candidate.classList.toggle("is-active", active);
       candidate.setAttribute("aria-pressed", String(active));
     });
+    const picker = option.parentElement;
+    if (picker.scrollWidth > picker.clientWidth) {
+      const pickerBox = picker.getBoundingClientRect();
+      const optionBox = option.getBoundingClientRect();
+      const centeredLeft = picker.scrollLeft + optionBox.left - pickerBox.left - (picker.clientWidth - optionBox.width) / 2;
+      picker.scrollTo({
+        left: Math.max(0, centeredLeft),
+        behavior: reducedMotionQuery.matches ? "auto" : "smooth",
+      });
+    }
     elements.mascotDisplay.classList.remove("is-switching");
   };
 

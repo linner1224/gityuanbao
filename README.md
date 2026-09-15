@@ -2,6 +2,9 @@
 
 一个以真实 RSS 数据为基础的轻量 AI 新闻阅读站。目前已完成第一条垂直链路：采集 RSS、统一字段、基础去重、保存 JSON，并由静态页面展示。
 
+- 在线演示：<https://linner1224.github.io/gityuanbao/>
+- 源码仓库：<https://github.com/linner1224/gityuanbao>
+
 阅读界面包含今日 5 条速览、浏览器本地已读足迹、隐藏已读、来源透镜、新鲜度标记和三类来源信号雷达，并提供源宝动态提示、随机投喂、一键复制今日速览、每页 15 条分页及今日新闻 PDF 导出。全站使用固定视频环境背景，并为减少动态效果偏好保留静态海报版本。来源透镜只展示订阅数据与采集状态中真实存在的字段，缺失信息明确标注为“未提供”。
 
 “导出今日 PDF”会打开浏览器打印窗口，选择“另存为 PDF”即可保存。简报优先使用当天资讯；当天尚无数据时，会在页眉中明确标注并回退到最近一个收录日。
@@ -15,6 +18,10 @@
 - OpenAI 官方博客：`https://openai.com/blog/rss.xml`
 
 三个来源彼此独立。机器之心 RSSHub、AIHOT、arXiv 等暂不进入首版核心链路。
+
+## 技术选择
+
+项目采用原生 HTML、CSS 和 JavaScript 展示，Python 标准库负责 RSS/Atom 采集与字段统一，GitHub Actions 负责定时运行，GitHub Pages 托管静态结果。选择这条链路是为了减少部署组件和运行依赖，同时保留可复现的真实数据获取、失败状态与自动更新记录。
 
 ## 本地运行
 
@@ -52,6 +59,10 @@ python scripts/fetch_news.py --from-fixtures
 
 详细清单见 `docs/acceptance-checklist.md`。
 
+- `docs/development-notes.md`：开发说明、关键决策与一次问题定位过程
+- `docs/verification-record.md`：真实抓取、重复导入、来源失败、响应式与线上运行记录
+- `SUBMISSION.md`：提交信息汇总；姓名和实际投入时间需要提交人最终填写
+
 ## 自动更新与部署
 
 `.github/workflows/update-and-deploy.yml` 支持以下触发方式：
@@ -62,4 +73,12 @@ python scripts/fetch_news.py --from-fixtures
 
 工作流会先运行解析测试，再采集真实 RSS、提交数据和运行状态，最后把静态文件及图片、视频资源部署到 GitHub Pages。单个来源失败时采集器会保留旧数据，并在 `data/update-status.json` 中记录 `partial` 状态。
 
-首次发布需要在 GitHub 仓库的 `Settings → Pages → Build and deployment` 中将来源设置为 `GitHub Actions`。
+当前仓库已启用 GitHub Pages，并已验证半小时定时任务连续成功运行。
+
+## 成本、依赖与已知限制
+
+- 项目没有购买付费服务，也不调用付费大模型；运行依赖 GitHub Pages、GitHub Actions 免费额度及各 RSS 来源的可用性。
+- RSS 自带摘要的长度和质量由来源决定，本站只做纯文本清理与截断，不补写事实。
+- 已读足迹保存在当前浏览器的本地存储中，不会跨设备同步。
+- PDF 导出依赖浏览器打印功能，需要在打印窗口选择“另存为 PDF”。
+- GitHub Actions 的定时任务可能因平台调度出现数分钟延迟，并非严格的整点计时器。

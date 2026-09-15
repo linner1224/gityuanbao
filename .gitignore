@@ -4,3 +4,4 @@ __pycache__/
 .env
 .DS_Store
 daily-ai-*.png
+deliverables/

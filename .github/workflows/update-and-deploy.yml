@@ -5,8 +5,8 @@ on:
     branches:
       - main
   schedule:
-    # 08:17 in Asia/Shanghai. A non-zero minute reduces peak-time delays.
-    - cron: "17 0 * * *"
+    # Refresh twice per hour. GitHub Actions schedules use UTC.
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -49,7 +49,8 @@ jobs:
       - name: Prepare static site
         run: |
           mkdir -p _site/data
-          cp index.html styles.css app.js _site/
+          cp index.html 404.html favicon.ico styles.css app.js _site/
+          cp -R assets _site/assets
           cp data/news.json data/update-status.json _site/data/
           touch _site/.nojekyll
 

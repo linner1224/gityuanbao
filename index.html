@@ -3,67 +3,243 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="每日 AI 情报站，聚合可信的中文与海外 AI 资讯。" />
-    <title>每日 AI 情报站</title>
+    <meta name="description" content="Git源宝每日 AI 资讯分享，聚合可信的中文与海外 AI 资讯。" />
+    <meta name="theme-color" content="#071522" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:title" content="Git源宝每日 AI 资讯分享" />
+    <meta property="og:description" content="汇集中文科技媒体、海外报道和官方博客，保留来源与时间。" />
+    <meta property="og:image" content="assets/brand/og-share.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Git源宝每日 AI 资讯分享预览图" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Git源宝每日 AI 资讯分享" />
+    <meta name="twitter:description" content="半小时刷新，精选中文媒体、海外资讯与官方动态。" />
+    <meta name="twitter:image" content="assets/brand/og-share.png" />
+    <link rel="icon" href="favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/brand/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/brand/favicon-16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/brand/favicon-180.png" />
+    <title>Git源宝每日 AI 资讯分享</title>
     <link rel="stylesheet" href="styles.css" />
     <script src="app.js" defer></script>
   </head>
   <body>
+    <div class="site-video-background" aria-hidden="true">
+      <video
+        id="hero-video"
+        class="hero-video"
+        autoplay
+        muted
+        loop
+        playsinline
+        preload="metadata"
+        poster="assets/video/git-yuanbao-hero-poster.jpg"
+      >
+        <source src="assets/video/git-yuanbao-hero.mp4" type="video/mp4" />
+      </video>
+      <span class="hero-video-scrim"></span>
+    </div>
+    <div class="scroll-progress" aria-hidden="true"><span></span></div>
+
     <header class="site-header">
-      <a class="brand" href="./" aria-label="每日 AI 情报站首页">
-        <span class="brand-mark">AI</span>
-        <span>每日情报站</span>
+      <a class="brand" href="./" aria-label="Git源宝每日 AI 资讯分享首页">
+        <img class="brand-avatar" src="assets/ip/git-yuanbao-main.png" alt="" />
+        <span class="brand-name">Git源宝每日 AI 资讯分享</span>
       </a>
-      <p class="timezone">日期按 Asia/Shanghai 计算</p>
+      <nav class="header-nav" aria-label="页面导航">
+        <a href="#latest">最新资讯</a>
+        <a href="#status"><span class="nav-status-dot" aria-hidden="true"></span>数据状态</a>
+      </nav>
     </header>
 
     <main>
       <section class="hero" aria-labelledby="page-title">
-        <p class="eyebrow">DAILY SIGNAL · 少噪音，多线索</p>
-        <h1 id="page-title">几分钟，掌握今天值得关注的 AI 动态</h1>
-        <p class="hero-copy">聚合中文媒体、海外科技媒体与官方博客。每条内容保留原始来源和发布时间。</p>
-        <div class="update-line" id="update-line" role="status">正在读取更新状态…</div>
+        <div class="signal-field" aria-hidden="true">
+          <span class="signal-axis axis-one"></span>
+          <span class="signal-axis axis-two"></span>
+          <span class="signal-axis axis-three"></span>
+          <span class="signal-pulse pulse-one"></span>
+          <span class="signal-pulse pulse-two"></span>
+          <span class="scan-line"></span>
+        </div>
+        <div class="hero-content">
+          <div class="hero-copy-block">
+            <p class="section-label"><span class="live-dot" aria-hidden="true"></span>源宝值班播报</p>
+            <h1 id="page-title">源宝替你巡视<br />今天的 AI 世界</h1>
+            <p class="hero-copy">汇集中文科技媒体、海外报道和官方博客。保留来源与时间，帮你快速找到值得打开的那一条。</p>
+            <div class="hero-actions">
+              <a class="hero-link" href="#latest">浏览今日资讯</a>
+              <button class="video-control" id="video-toggle" type="button" aria-pressed="false">
+                <span class="video-control-icon" aria-hidden="true"></span>
+                <span id="video-toggle-label">暂停背景</span>
+              </button>
+              <span class="hero-assurance">每日更新 · 原文可追溯</span>
+            </div>
+          </div>
+
+          <div class="mascot-zone">
+            <figure class="mascot-stage">
+              <span class="mascot-orbit orbit-one" aria-hidden="true"></span>
+              <span class="mascot-orbit orbit-two" aria-hidden="true"></span>
+              <span class="mascot-scan" aria-hidden="true"><i></i></span>
+              <img id="mascot-display" src="assets/ip/git-yuanbao-main.png" alt="经典源宝，佩戴墨镜举着 Git源宝标牌" />
+              <figcaption>
+                <span>今日值班</span>
+                <strong id="mascot-name">经典源宝</strong>
+              </figcaption>
+            </figure>
+
+            <div class="variant-picker" role="group" aria-label="选择源宝值班形态">
+              <button class="variant-option is-active" type="button" data-src="assets/ip/git-yuanbao-main.png" data-name="经典源宝" data-alt="经典源宝，佩戴墨镜举着 Git源宝标牌" aria-pressed="true" title="经典源宝">
+                <img src="assets/ip/git-yuanbao-main.png" alt="" />
+              </button>
+              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-cyber.jpg" data-name="赛博义体" data-alt="赛博义体源宝" aria-pressed="false" title="赛博义体">
+                <img src="assets/ip/git-yuanbao-cyber.jpg" alt="" />
+              </button>
+              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-armor.jpg" data-name="机械战甲" data-alt="身穿机械战甲的源宝" aria-pressed="false" title="机械战甲">
+                <img src="assets/ip/git-yuanbao-armor.jpg" alt="" />
+              </button>
+              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-hacker.jpg" data-name="黑客风衣" data-alt="身穿黑客风衣的源宝" aria-pressed="false" title="黑客风衣">
+                <img src="assets/ip/git-yuanbao-hacker.jpg" alt="" />
+              </button>
+              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-scientist.jpg" data-name="AI Scientist" data-alt="AI 科学家源宝" aria-pressed="false" title="AI Scientist">
+                <img src="assets/ip/git-yuanbao-scientist.jpg" alt="" />
+              </button>
+              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-neon.jpg" data-name="霓虹潮服" data-alt="身穿霓虹潮服的源宝" aria-pressed="false" title="霓虹潮服">
+                <img src="assets/ip/git-yuanbao-neon.jpg" alt="" />
+              </button>
+              <button class="variant-option" type="button" data-src="assets/ip/git-yuanbao-commander.jpg" data-name="星舰指挥官" data-alt="星舰指挥官源宝" aria-pressed="false" title="星舰指挥官">
+                <img src="assets/ip/git-yuanbao-commander.jpg" alt="" />
+              </button>
+            </div>
+            <p class="mascot-message">
+              <span>源宝说</span>
+              <q id="mascot-message">正在观察今天的 AI 信号…</q>
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="briefing-deck" aria-label="今日阅读工作台">
+          <article class="daily-brief">
+            <header class="brief-header">
+              <div>
+                <span class="brief-kicker">今日速览</span>
+                <strong>5 条精选资讯</strong>
+              </div>
+              <span class="brief-progress" id="brief-progress">1/5</span>
+            </header>
+            <a class="brief-title" id="brief-title" href="#latest">正在生成今日速览…</a>
+            <div class="brief-meta">
+              <span id="brief-source">—</span>
+              <span id="brief-freshness">—</span>
+              <span id="brief-estimate">约 3 分钟完成</span>
+            </div>
+            <div class="brief-footer">
+              <div class="brief-steps" id="brief-steps" aria-label="速览进度"></div>
+              <div class="brief-actions">
+                <button class="brief-utility" id="random-feed" type="button">随机投喂</button>
+                <button class="brief-utility" id="copy-brief" type="button">复制今日 5 条</button>
+                <button class="brief-utility export-pdf-button" id="export-pdf" type="button" title="打开系统打印窗口，可另存为 PDF">导出今日 PDF</button>
+                <div class="brief-controls">
+                  <button id="brief-prev" type="button" aria-label="上一条精选资讯">上一条</button>
+                  <button id="brief-next" type="button" aria-label="下一条精选资讯">下一条</button>
+                </div>
+              </div>
+            </div>
+          </article>
+
+          <aside class="signal-radar" id="status" aria-labelledby="radar-title">
+            <header class="radar-header">
+              <div>
+                <span class="brief-kicker">来源构成</span>
+                <strong id="radar-title">信号雷达</strong>
+              </div>
+              <span id="radar-total">— 条</span>
+            </header>
+            <div class="radar-bar" id="radar-bar" aria-label="资讯来源比例"></div>
+            <div class="radar-legend" id="radar-legend"></div>
+            <dl class="compact-stats">
+              <div><dt>收录</dt><dd id="stat-total">—</dd></div>
+              <div><dt>来源</dt><dd id="stat-sources">—</dd></div>
+              <div><dt>今日</dt><dd id="stat-today">—</dd></div>
+            </dl>
+            <div class="update-line" id="update-line" role="status">正在读取更新状态…</div>
+          </aside>
       </section>
 
       <section class="toolbar" aria-label="资讯筛选">
         <label class="search-field">
-          <span>搜索</span>
-          <input id="search" type="search" placeholder="搜索标题、摘要或来源" autocomplete="off" />
+          <span class="field-label">搜索资讯</span>
+          <span class="input-shell">
+            <span class="search-icon" aria-hidden="true"></span>
+            <input id="search" type="search" placeholder="关键词、摘要或来源" autocomplete="off" />
+          </span>
         </label>
-        <label>
-          <span>来源</span>
+        <label class="source-field">
+          <span class="field-label">内容来源</span>
           <select id="source-filter">
             <option value="all">全部来源</option>
           </select>
         </label>
         <fieldset class="range-filter">
-          <legend>时间范围</legend>
-          <button class="range-button is-active" type="button" data-range="all">全部</button>
-          <button class="range-button" type="button" data-range="today">今天</button>
-          <button class="range-button" type="button" data-range="7d">近 7 天</button>
+          <legend class="field-label">时间范围</legend>
+          <div class="range-buttons">
+            <button class="range-button is-active" type="button" data-range="all">全部</button>
+            <button class="range-button" type="button" data-range="today">今天</button>
+            <button class="range-button" type="button" data-range="7d">近 7 天</button>
+          </div>
         </fieldset>
+        <button class="hide-read-button" id="hide-read" type="button" aria-pressed="false">
+          <span class="read-toggle-dot" aria-hidden="true"></span>
+          <span>隐藏已读</span>
+          <small id="read-count">0</small>
+        </button>
       </section>
 
-      <section class="feed" aria-labelledby="feed-title">
+      <section class="feed" id="latest" aria-labelledby="feed-title">
         <div class="feed-heading">
           <div>
-            <p class="eyebrow">LATEST</p>
+            <p class="section-label">按发布时间排序</p>
             <h2 id="feed-title">最新资讯</h2>
           </div>
-          <p id="result-count">0 条</p>
+          <p class="result-count" id="result-count">0 条</p>
         </div>
         <div id="loading" class="empty-state">正在读取资讯…</div>
         <div id="news-list" class="news-list" aria-live="polite"></div>
+        <nav class="pagination" id="pagination" aria-label="资讯分页" hidden></nav>
         <div id="empty" class="empty-state" hidden>
           <h3>没有符合条件的资讯</h3>
           <p>换个关键词，或清除当前筛选条件。</p>
           <button id="clear-filters" type="button">清除筛选</button>
         </div>
       </section>
+
+      <section class="print-report" id="print-report" aria-label="今日 AI 新闻 PDF 简报">
+        <header class="print-report-header">
+          <div>
+            <p>GIT YUANBAO · DAILY AI BRIEF</p>
+            <h2>Git源宝今日 AI 新闻</h2>
+          </div>
+          <time id="print-report-date"></time>
+        </header>
+        <p class="print-report-note">每条新闻保留一句话概括与原始出处。摘要由来源订阅内容截取，不补写事实。</p>
+        <ol class="print-news-list" id="print-news-list"></ol>
+        <footer class="print-report-footer">
+          <span>Git源宝每日 AI 资讯分享</span>
+          <span id="print-report-count"></span>
+        </footer>
+      </section>
     </main>
 
     <footer>
-      <p>每日 AI 情报站 · 摘要来自来源订阅，不补造发布时间或事实。</p>
+      <div>
+        <strong>Git源宝每日 AI 资讯分享</strong>
+        <p>摘要来自来源订阅，不补造发布时间或事实</p>
+      </div>
+      <a href="#page-title">返回顶部</a>
     </footer>
   </body>
 </html>

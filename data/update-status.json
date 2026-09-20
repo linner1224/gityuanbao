@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-20T07:33:29.536257Z",
+  "updatedAt": "2026-09-20T08:01:25.083657Z",
   "state": "success",
-  "totalItems": 268,
+  "totalItems": 269,
   "sources": [
     {
       "sourceId": "qbitai",
@@ -9,8 +9,8 @@
       "state": "success",
       "fetchedCount": 10,
       "importedCount": 10,
-      "newCount": 0,
-      "checkedAt": "2026-09-20T07:33:29.536257Z"
+      "newCount": 1,
+      "checkedAt": "2026-09-20T08:01:25.083657Z"
     },
     {
       "sourceId": "techcrunch-ai",
@@ -19,7 +19,7 @@
       "fetchedCount": 20,
       "importedCount": 20,
       "newCount": 0,
-      "checkedAt": "2026-09-20T07:33:29.536257Z"
+      "checkedAt": "2026-09-20T08:01:25.083657Z"
     },
     {
       "sourceId": "openai-blog",
@@ -28,7 +28,7 @@
       "fetchedCount": 1210,
       "importedCount": 100,
       "newCount": 0,
-      "checkedAt": "2026-09-20T07:33:29.536257Z"
+      "checkedAt": "2026-09-20T08:01:25.083657Z"
     }
   ]
 }

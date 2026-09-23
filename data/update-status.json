@@ -1,14 +1,16 @@
 {
-  "updatedAt": "2026-09-23T03:01:18.309401Z",
-  "state": "partial",
+  "updatedAt": "2026-09-23T03:35:38.834408Z",
+  "state": "success",
   "totalItems": 300,
   "sources": [
     {
       "sourceId": "qbitai",
       "sourceName": "量子位",
-      "state": "failed",
-      "error": "RemoteDisconnected: Remote end closed connection without response",
-      "checkedAt": "2026-09-23T03:01:18.309401Z"
+      "state": "success",
+      "fetchedCount": 10,
+      "importedCount": 10,
+      "newCount": 1,
+      "checkedAt": "2026-09-23T03:35:38.834408Z"
     },
     {
       "sourceId": "techcrunch-ai",
@@ -17,7 +19,7 @@
       "fetchedCount": 20,
       "importedCount": 20,
       "newCount": 0,
-      "checkedAt": "2026-09-23T03:01:18.309401Z"
+      "checkedAt": "2026-09-23T03:35:38.834408Z"
     },
     {
       "sourceId": "openai-blog",
@@ -26,7 +28,7 @@
       "fetchedCount": 1219,
       "importedCount": 100,
       "newCount": 0,
-      "checkedAt": "2026-09-23T03:01:18.309401Z"
+      "checkedAt": "2026-09-23T03:35:38.834408Z"
     }
   ]
 }

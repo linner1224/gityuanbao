@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T18:37:15.853658Z",
+  "updatedAt": "2026-09-23T19:01:24.339501Z",
   "state": "success",
   "totalItems": 300,
   "sources": [
@@ -10,7 +10,7 @@
       "fetchedCount": 10,
       "importedCount": 10,
       "newCount": 0,
-      "checkedAt": "2026-09-23T18:37:15.853658Z"
+      "checkedAt": "2026-09-23T19:01:24.339501Z"
     },
     {
       "sourceId": "techcrunch-ai",
@@ -19,16 +19,16 @@
       "fetchedCount": 20,
       "importedCount": 20,
       "newCount": 0,
-      "checkedAt": "2026-09-23T18:37:15.853658Z"
+      "checkedAt": "2026-09-23T19:01:24.339501Z"
     },
     {
       "sourceId": "openai-blog",
       "sourceName": "OpenAI 官方博客",
       "state": "success",
-      "fetchedCount": 1223,
+      "fetchedCount": 1225,
       "importedCount": 100,
-      "newCount": 0,
-      "checkedAt": "2026-09-23T18:37:15.853658Z"
+      "newCount": 2,
+      "checkedAt": "2026-09-23T19:01:24.339501Z"
     }
   ]
 }

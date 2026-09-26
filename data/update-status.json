@@ -1,14 +1,16 @@
 {
-  "updatedAt": "2026-09-26T13:33:14.309983Z",
-  "state": "partial",
+  "updatedAt": "2026-09-26T14:01:37.498086Z",
+  "state": "success",
   "totalItems": 300,
   "sources": [
     {
       "sourceId": "qbitai",
       "sourceName": "量子位",
-      "state": "failed",
-      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.qbitai.com'. (_ssl.c:1000)>",
-      "checkedAt": "2026-09-26T13:33:14.309983Z"
+      "state": "success",
+      "fetchedCount": 10,
+      "importedCount": 10,
+      "newCount": 1,
+      "checkedAt": "2026-09-26T14:01:37.498086Z"
     },
     {
       "sourceId": "techcrunch-ai",
@@ -16,8 +18,8 @@
       "state": "success",
       "fetchedCount": 20,
       "importedCount": 20,
-      "newCount": 0,
-      "checkedAt": "2026-09-26T13:33:14.309983Z"
+      "newCount": 1,
+      "checkedAt": "2026-09-26T14:01:37.498086Z"
     },
     {
       "sourceId": "openai-blog",
@@ -26,7 +28,7 @@
       "fetchedCount": 1230,
       "importedCount": 100,
       "newCount": 0,
-      "checkedAt": "2026-09-26T13:33:14.309983Z"
+      "checkedAt": "2026-09-26T14:01:37.498086Z"
     }
   ]
 }

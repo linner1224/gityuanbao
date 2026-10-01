@@ -1,16 +1,14 @@
 {
-  "updatedAt": "2026-10-01T11:03:33.726665Z",
-  "state": "success",
+  "updatedAt": "2026-10-01T11:37:02.235141Z",
+  "state": "partial",
   "totalItems": 300,
   "sources": [
     {
       "sourceId": "qbitai",
       "sourceName": "量子位",
-      "state": "success",
-      "fetchedCount": 10,
-      "importedCount": 10,
-      "newCount": 0,
-      "checkedAt": "2026-10-01T11:03:33.726665Z"
+      "state": "failed",
+      "error": "URLError: <urlopen error _ssl.c:983: The handshake operation timed out>",
+      "checkedAt": "2026-10-01T11:37:02.235141Z"
     },
     {
       "sourceId": "techcrunch-ai",
@@ -19,7 +17,7 @@
       "fetchedCount": 19,
       "importedCount": 19,
       "newCount": 0,
-      "checkedAt": "2026-10-01T11:03:33.726665Z"
+      "checkedAt": "2026-10-01T11:37:02.235141Z"
     },
     {
       "sourceId": "openai-blog",
@@ -28,7 +26,7 @@
       "fetchedCount": 1240,
       "importedCount": 100,
       "newCount": 0,
-      "checkedAt": "2026-10-01T11:03:33.726665Z"
+      "checkedAt": "2026-10-01T11:37:02.235141Z"
     }
   ]
 }

@@ -1,14 +1,16 @@
 {
-  "updatedAt": "2026-10-02T13:39:14.936626Z",
-  "state": "partial",
+  "updatedAt": "2026-10-02T14:03:58.353117Z",
+  "state": "success",
   "totalItems": 300,
   "sources": [
     {
       "sourceId": "qbitai",
       "sourceName": "量子位",
-      "state": "failed",
-      "error": "URLError: <urlopen error timed out>",
-      "checkedAt": "2026-10-02T13:39:14.936626Z"
+      "state": "success",
+      "fetchedCount": 10,
+      "importedCount": 10,
+      "newCount": 0,
+      "checkedAt": "2026-10-02T14:03:58.353117Z"
     },
     {
       "sourceId": "techcrunch-ai",
@@ -16,8 +18,8 @@
       "state": "success",
       "fetchedCount": 19,
       "importedCount": 19,
-      "newCount": 0,
-      "checkedAt": "2026-10-02T13:39:14.936626Z"
+      "newCount": 1,
+      "checkedAt": "2026-10-02T14:03:58.353117Z"
     },
     {
       "sourceId": "openai-blog",
@@ -26,7 +28,7 @@
       "fetchedCount": 1243,
       "importedCount": 100,
       "newCount": 0,
-      "checkedAt": "2026-10-02T13:39:14.936626Z"
+      "checkedAt": "2026-10-02T14:03:58.353117Z"
     }
   ]
 }

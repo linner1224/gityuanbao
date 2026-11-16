@@ -1,5 +1,209 @@
 [
   {
+    "id": "046c1e97a5a646126212",
+    "sourceId": "techcrunch-ai",
+    "sourceName": "TechCrunch AI",
+    "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "originalUrl": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks",
+    "publishedAt": "2026-11-16T15:52:19Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "cf5ffb5d05aaed534d8f",
+    "sourceId": "techcrunch-ai",
+    "sourceName": "TechCrunch AI",
+    "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "originalUrl": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely",
+    "publishedAt": "2026-11-16T15:02:34Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "cf86a3f52ee310e0d153",
+    "sourceId": "techcrunch-ai",
+    "sourceName": "TechCrunch AI",
+    "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+    "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+    "originalUrl": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop",
+    "publishedAt": "2026-11-16T14:48:13Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "212d0adf1b061aace8c2",
+    "sourceId": "techcrunch-ai",
+    "sourceName": "TechCrunch AI",
+    "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+    "originalUrl": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
+    "publishedAt": "2026-11-16T12:30:00Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "7f094becff32fc0bf302",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/",
+    "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+    "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+    "originalUrl": "https://www.qbitai.com/2026/11/510542.html",
+    "publishedAt": "2026-11-16T10:57:31Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "ff4c25dc003e2e28c337",
+    "sourceId": "openai-blog",
+    "sourceName": "OpenAI 官方博客",
+    "sourceUrl": "https://openai.com/blog/",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "originalUrl": "https://openai.com/index/lvmh-media-division-partnership",
+    "publishedAt": "2026-11-16T09:00:00Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "187720bfc23d56b576fe",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/",
+    "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+    "summary": "12月1日，细数AI的未竟之问。",
+    "originalUrl": "https://www.qbitai.com/2026/11/510526.html",
+    "publishedAt": "2026-11-16T08:45:17Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "c545c192f6035dd80413",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/",
+    "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+    "summary": "在华为待了快10000天。",
+    "originalUrl": "https://www.qbitai.com/2026/11/510496.html",
+    "publishedAt": "2026-11-16T08:02:07Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "94140ec1197571dd7f42",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/",
+    "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+    "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+    "originalUrl": "https://www.qbitai.com/2026/11/510493.html",
+    "publishedAt": "2026-11-16T07:58:57Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "c7295a05c3bce6409bb9",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/",
+    "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+    "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+    "originalUrl": "https://www.qbitai.com/2026/11/510486.html",
+    "publishedAt": "2026-11-16T07:51:57Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "3a5378a08ba256afbe85",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/",
+    "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+    "summary": "余承东重新明确分工",
+    "originalUrl": "https://www.qbitai.com/2026/11/510436.html",
+    "publishedAt": "2026-11-16T07:26:33Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "b29025353c89a2b44431",
+    "sourceId": "openai-blog",
+    "sourceName": "OpenAI 官方博客",
+    "sourceUrl": "https://openai.com/blog/",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "summary": "",
+    "originalUrl": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "publishedAt": "2026-11-16T06:00:00Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "236c31875d85212ac8a1",
+    "sourceId": "openai-blog",
+    "sourceName": "OpenAI 官方博客",
+    "sourceUrl": "https://openai.com/blog/",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "originalUrl": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "publishedAt": "2026-11-16T06:00:00Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "4e30fb15cef5ac83a911",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/",
+    "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+    "summary": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
+    "originalUrl": "https://www.qbitai.com/2026/11/510416.html",
+    "publishedAt": "2026-11-16T05:05:22Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "63fbde249ac6a805ad10",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/",
+    "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+    "summary": "50岁，以“华为董事”之名退休，又有几人？",
+    "originalUrl": "https://www.qbitai.com/2026/11/510404.html",
+    "publishedAt": "2026-11-16T03:54:30Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "4412ca63fb921de447a4",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/",
+    "title": "今天截止！2026年度AI表彰，错过再等一年！",
+    "summary": "量子位在寻找“能干”的答案",
+    "originalUrl": "https://www.qbitai.com/2026/11/510382.html",
+    "publishedAt": "2026-11-16T03:19:53Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "3691acb615489ddc98e5",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "sourceUrl": "https://www.qbitai.com/",
+    "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+    "summary": "是石科技最新发布多模态模型服务",
+    "originalUrl": "https://www.qbitai.com/2026/11/510369.html",
+    "publishedAt": "2026-11-16T03:07:39Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
     "id": "d7ca601b29d15dd50230",
     "sourceId": "techcrunch-ai",
     "sourceName": "TechCrunch AI",
@@ -8,7 +212,19 @@
     "summary": "Apple's new app for a study will answer everyday medical questions",
     "originalUrl": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
     "publishedAt": "2026-11-16T01:30:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
+    "contentAttribution": "source-feed"
+  },
+  {
+    "id": "ef2279c744815dc4fda3",
+    "sourceId": "openai-blog",
+    "sourceName": "OpenAI 官方博客",
+    "sourceUrl": "https://openai.com/blog/",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "originalUrl": "https://openai.com/index/the-kings-trust-and-openai",
+    "publishedAt": "2026-11-16T00:00:00Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -20,7 +236,7 @@
     "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
     "originalUrl": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
     "publishedAt": "2026-11-15T23:30:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -32,7 +248,7 @@
     "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
     "originalUrl": "https://openai.com/index/step-toward-defining-the-standard-model",
     "publishedAt": "2026-11-15T22:00:01Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -44,7 +260,7 @@
     "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
     "originalUrl": "https://openai.com/index/our-new-blog-for-science",
     "publishedAt": "2026-11-15T22:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -56,7 +272,7 @@
     "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
     "originalUrl": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
     "publishedAt": "2026-11-15T21:56:35Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -68,7 +284,7 @@
     "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
     "originalUrl": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
     "publishedAt": "2026-11-15T20:20:57Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -80,7 +296,7 @@
     "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday…",
     "originalUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
     "publishedAt": "2026-11-15T00:08:07Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -92,7 +308,7 @@
     "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
     "originalUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
     "publishedAt": "2026-11-14T21:41:22Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -104,7 +320,7 @@
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "originalUrl": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
     "publishedAt": "2026-11-14T17:30:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -116,7 +332,7 @@
     "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
     "originalUrl": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
     "publishedAt": "2026-11-14T16:34:15Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -200,7 +416,7 @@
     "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
     "originalUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
     "publishedAt": "2026-11-13T22:43:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -212,7 +428,7 @@
     "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
     "originalUrl": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
     "publishedAt": "2026-11-13T19:37:57Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -224,7 +440,7 @@
     "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
     "originalUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
     "publishedAt": "2026-11-13T18:40:30Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -236,7 +452,7 @@
     "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
     "originalUrl": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
     "publishedAt": "2026-11-13T16:00:12Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -248,7 +464,7 @@
     "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "originalUrl": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
     "publishedAt": "2026-11-13T15:58:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -260,7 +476,7 @@
     "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
     "originalUrl": "https://openai.com/index/introducing-chatgpt-wallet",
     "publishedAt": "2026-11-13T15:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -272,7 +488,7 @@
     "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
     "originalUrl": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
     "publishedAt": "2026-11-13T14:44:48Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -284,7 +500,7 @@
     "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
     "originalUrl": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
     "publishedAt": "2026-11-13T12:52:19Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -296,7 +512,7 @@
     "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
     "originalUrl": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
     "publishedAt": "2026-11-13T12:28:23Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -320,7 +536,7 @@
     "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
     "originalUrl": "https://openai.com/business/customer-stories/shield",
     "publishedAt": "2026-11-13T08:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -512,7 +728,7 @@
     "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
     "originalUrl": "https://openai.com/business/customer-stories/amplitude",
     "publishedAt": "2026-11-12T20:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -692,7 +908,7 @@
     "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
     "originalUrl": "https://openai.com/business/customer-stories/gondola",
     "publishedAt": "2026-11-12T12:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -764,7 +980,7 @@
     "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
     "originalUrl": "https://openai.com/business/customer-stories/holidays-extras-codex",
     "publishedAt": "2026-11-12T09:30:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -836,7 +1052,7 @@
     "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
     "originalUrl": "https://openai.com/index/gilbert-tobin-sam-nickless",
     "publishedAt": "2026-11-12T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -848,7 +1064,7 @@
     "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
     "originalUrl": "https://openai.com/index/children-first-declaration",
     "publishedAt": "2026-11-12T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -1052,7 +1268,7 @@
     "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
     "originalUrl": "https://openai.com/index/chatgpt-plus-for-veterans",
     "publishedAt": "2026-11-11T08:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -1124,7 +1340,7 @@
     "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
     "originalUrl": "https://openai.com/index/jiostar-vijay-seshadri",
     "publishedAt": "2026-11-11T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -1328,7 +1544,7 @@
     "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
     "originalUrl": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
     "publishedAt": "2026-11-10T12:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -1352,7 +1568,7 @@
     "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
     "originalUrl": "https://openai.com/index/introducing-businesses-chatgpt",
     "publishedAt": "2026-11-10T10:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -1364,7 +1580,7 @@
     "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
     "originalUrl": "https://openai.com/index/closing-ai-guidance-gap-education",
     "publishedAt": "2026-11-10T09:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -1388,7 +1604,7 @@
     "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
     "originalUrl": "https://openai.com/index/singapore-airlines-travel-work",
     "publishedAt": "2026-11-10T08:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -1484,7 +1700,7 @@
     "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
     "originalUrl": "https://openai.com/index/ai-effect-on-freelance-work",
     "publishedAt": "2026-11-10T07:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -1532,7 +1748,7 @@
     "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
     "originalUrl": "https://openai.com/index/cogent-security",
     "publishedAt": "2026-11-10T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -1616,7 +1832,7 @@
     "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
     "originalUrl": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
     "publishedAt": "2026-11-09T19:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -1688,7 +1904,7 @@
     "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
     "originalUrl": "https://openai.com/index/control-room",
     "publishedAt": "2026-11-09T13:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -1748,7 +1964,7 @@
     "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
     "originalUrl": "https://openai.com/index/kuken",
     "publishedAt": "2026-11-09T08:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -1760,7 +1976,7 @@
     "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
     "originalUrl": "https://openai.com/index/coderabbit-codex-daybreak",
     "publishedAt": "2026-11-09T08:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2168,7 +2384,7 @@
     "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
     "originalUrl": "https://openai.com/index/partnering-with-hacktron",
     "publishedAt": "2026-11-06T08:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2276,7 +2492,7 @@
     "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
     "originalUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
     "publishedAt": "2026-11-06T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2300,7 +2516,7 @@
     "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
     "originalUrl": "https://openai.com/index/cultfit-builds-with-codex",
     "publishedAt": "2026-11-05T20:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2316,54 +2532,6 @@
     "contentAttribution": "source-feed"
   },
   {
-    "id": "d663365a70657a8d18af",
-    "sourceId": "techcrunch-ai",
-    "sourceName": "TechCrunch AI",
-    "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-    "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-    "originalUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-    "publishedAt": "2026-11-05T19:12:39Z",
-    "collectedAt": "2026-11-09T10:29:08.718057Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "7450150ec5a007ddcd79",
-    "sourceId": "techcrunch-ai",
-    "sourceName": "TechCrunch AI",
-    "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "title": "OpenAI released a new cybersecurity model. Is that enough?",
-    "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-    "originalUrl": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough",
-    "publishedAt": "2026-11-05T19:06:12Z",
-    "collectedAt": "2026-11-09T10:29:08.718057Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "6b737c1eb9cce8e13c60",
-    "sourceId": "techcrunch-ai",
-    "sourceName": "TechCrunch AI",
-    "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-    "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-    "originalUrl": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
-    "publishedAt": "2026-11-05T18:02:27Z",
-    "collectedAt": "2026-11-09T10:29:08.718057Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "7052af12dc88995a666d",
-    "sourceId": "techcrunch-ai",
-    "sourceName": "TechCrunch AI",
-    "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/",
-    "title": "Claude can now analyze your spending with its new Personal Finance tool",
-    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-    "originalUrl": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
-    "publishedAt": "2026-11-05T18:00:00Z",
-    "collectedAt": "2026-11-09T02:47:23.560773Z",
-    "contentAttribution": "source-feed"
-  },
-  {
     "id": "2618cd6ea3fe4618b50c",
     "sourceId": "openai-blog",
     "sourceName": "OpenAI 官方博客",
@@ -2372,7 +2540,7 @@
     "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
     "originalUrl": "https://openai.com/index/australian-universities-ai-native-graduates",
     "publishedAt": "2026-11-05T17:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2420,7 +2588,7 @@
     "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
     "originalUrl": "https://openai.com/index/introducing-gpt-6-cyber",
     "publishedAt": "2026-11-05T09:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2432,7 +2600,7 @@
     "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
     "originalUrl": "https://openai.com/index/merge-builds-with-openai",
     "publishedAt": "2026-11-05T08:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2492,7 +2660,7 @@
     "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
     "originalUrl": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
     "publishedAt": "2026-11-05T02:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2540,7 +2708,7 @@
     "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
     "originalUrl": "https://openai.com/ads/customers/flipsnack",
     "publishedAt": "2026-11-05T00:45:15Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2564,7 +2732,7 @@
     "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
     "originalUrl": "https://openai.com/index/franklin-templeton",
     "publishedAt": "2026-11-05T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2588,7 +2756,7 @@
     "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
     "originalUrl": "https://openai.com/index/openai-to-acquire-pierre",
     "publishedAt": "2026-11-04T14:30:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2600,7 +2768,7 @@
     "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
     "originalUrl": "https://openai.com/index/a-thousand-fewer-paths-to-root",
     "publishedAt": "2026-11-04T08:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2612,7 +2780,7 @@
     "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
     "originalUrl": "https://openai.com/index/daybreak-red-aws-govcloud",
     "publishedAt": "2026-11-04T07:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2624,7 +2792,7 @@
     "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
     "originalUrl": "https://openai.com/index/introducing-images-2-6",
     "publishedAt": "2026-11-04T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2636,7 +2804,7 @@
     "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
     "originalUrl": "https://openai.com/index/devrev-enterprise-self-service",
     "publishedAt": "2026-11-04T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2648,7 +2816,7 @@
     "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
     "originalUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
     "publishedAt": "2026-11-03T12:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2660,7 +2828,7 @@
     "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
     "originalUrl": "https://openai.com/index/cisco-cyber",
     "publishedAt": "2026-11-03T08:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2672,7 +2840,7 @@
     "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
     "originalUrl": "https://openai.com/index/heimstaden",
     "publishedAt": "2026-11-03T08:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2684,7 +2852,7 @@
     "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
     "originalUrl": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
     "publishedAt": "2026-11-03T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2696,7 +2864,7 @@
     "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
     "originalUrl": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "publishedAt": "2026-11-02T18:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2708,7 +2876,7 @@
     "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
     "originalUrl": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "publishedAt": "2026-11-02T18:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2720,7 +2888,7 @@
     "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
     "originalUrl": "https://openai.com/index/scaling-git-at-openai",
     "publishedAt": "2026-11-02T15:30:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2732,7 +2900,7 @@
     "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
     "originalUrl": "https://openai.com/index/grid-protectors-program",
     "publishedAt": "2026-11-02T15:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2744,7 +2912,7 @@
     "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
     "originalUrl": "https://openai.com/index/lifeval",
     "publishedAt": "2026-11-02T09:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2756,7 +2924,7 @@
     "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
     "originalUrl": "https://openai.com/index/dan-driscoll-joins-openai",
     "publishedAt": "2026-11-02T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2768,7 +2936,7 @@
     "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
     "originalUrl": "https://openai.com/index/qodo-codex-plugin",
     "publishedAt": "2026-11-02T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2780,7 +2948,7 @@
     "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
     "originalUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
     "publishedAt": "2026-10-30T09:30:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2792,7 +2960,7 @@
     "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
     "originalUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
     "publishedAt": "2026-10-30T09:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2804,7 +2972,7 @@
     "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
     "originalUrl": "https://openai.com/index/fair-use-benefits-everyone",
     "publishedAt": "2026-10-30T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2816,7 +2984,7 @@
     "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
     "originalUrl": "https://openai.com/index/updated-model-spec",
     "publishedAt": "2026-10-29T17:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2828,7 +2996,7 @@
     "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
     "originalUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
     "publishedAt": "2026-10-29T09:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2840,7 +3008,7 @@
     "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
     "originalUrl": "https://openai.com/index/ropes-gray-ai-diligence",
     "publishedAt": "2026-10-29T07:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2852,7 +3020,7 @@
     "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
     "originalUrl": "https://openai.com/index/credit-saison",
     "publishedAt": "2026-10-29T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2864,7 +3032,7 @@
     "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
     "originalUrl": "https://openai.com/ads/customers/evernote",
     "publishedAt": "2026-10-28T19:40:49Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2876,7 +3044,7 @@
     "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
     "originalUrl": "https://openai.com/index/openai-servicenow-partnership-expansion",
     "publishedAt": "2026-10-28T13:15:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2888,7 +3056,7 @@
     "summary": "How AI might enter the org chart—beneath, beside, and between us.",
     "originalUrl": "https://openai.com/index/the-future-of-the-firm",
     "publishedAt": "2026-10-28T10:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2900,7 +3068,7 @@
     "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
     "originalUrl": "https://openai.com/index/legora",
     "publishedAt": "2026-10-28T09:30:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2912,7 +3080,7 @@
     "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
     "originalUrl": "https://openai.com/index/retell-ai",
     "publishedAt": "2026-10-27T15:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2924,7 +3092,7 @@
     "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
     "originalUrl": "https://openai.com/index/oracle-apps-in-chatgpt",
     "publishedAt": "2026-10-27T07:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2936,7 +3104,7 @@
     "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
     "originalUrl": "https://openai.com/index/check-point-daybreak",
     "publishedAt": "2026-10-27T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2948,7 +3116,7 @@
     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
     "originalUrl": "https://openai.com/index/greptile-code-review-codex-astra",
     "publishedAt": "2026-10-26T22:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2960,7 +3128,7 @@
     "summary": "Delivering fast and capable computer use at scale",
     "originalUrl": "https://openai.com/index/introducing-gpt-6-1-terra",
     "publishedAt": "2026-10-26T18:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2972,7 +3140,7 @@
     "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
     "originalUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "publishedAt": "2026-10-26T14:30:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2984,7 +3152,7 @@
     "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
     "originalUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
     "publishedAt": "2026-10-26T13:45:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -2996,7 +3164,7 @@
     "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
     "originalUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
     "publishedAt": "2026-10-26T10:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3008,7 +3176,7 @@
     "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
     "originalUrl": "https://openai.com/index/fanatics-streamline-fan-experience",
     "publishedAt": "2026-10-26T07:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3020,7 +3188,7 @@
     "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
     "originalUrl": "https://openai.com/index/openai-cut-incident-investigation",
     "publishedAt": "2026-10-26T07:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3032,7 +3200,7 @@
     "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
     "originalUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "publishedAt": "2026-10-23T17:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3044,7 +3212,7 @@
     "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
     "originalUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
     "publishedAt": "2026-10-23T10:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3056,7 +3224,7 @@
     "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
     "originalUrl": "https://openai.com/index/anima",
     "publishedAt": "2026-10-23T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3068,7 +3236,7 @@
     "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
     "originalUrl": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "publishedAt": "2026-10-23T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3080,7 +3248,7 @@
     "summary": "Fast, focused, low-cost decisions for any application.",
     "originalUrl": "https://openai.com/index/decisions-api",
     "publishedAt": "2026-10-22T19:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3092,7 +3260,7 @@
     "summary": "What forward deployed engineering means at OpenAI",
     "originalUrl": "https://openai.com/index/forward-deployed-engineering-means",
     "publishedAt": "2026-10-22T06:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3104,7 +3272,7 @@
     "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
     "originalUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
     "publishedAt": "2026-10-22T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3116,7 +3284,7 @@
     "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
     "originalUrl": "https://openai.com/index/broad-access-through-consistent-standards",
     "publishedAt": "2026-10-21T21:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3128,7 +3296,7 @@
     "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
     "originalUrl": "https://openai.com/index/att-legal",
     "publishedAt": "2026-10-21T17:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3140,7 +3308,7 @@
     "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
     "originalUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
     "publishedAt": "2026-10-21T13:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3152,7 +3320,7 @@
     "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
     "originalUrl": "https://openai.com/index/openai-models-google-cloud",
     "publishedAt": "2026-10-21T12:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3164,7 +3332,7 @@
     "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
     "originalUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
     "publishedAt": "2026-10-21T07:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3176,7 +3344,7 @@
     "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
     "originalUrl": "https://openai.com/index/building-chatgpt-ad-stack",
     "publishedAt": "2026-10-21T07:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3188,7 +3356,7 @@
     "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
     "originalUrl": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
     "publishedAt": "2026-10-21T04:50:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3200,7 +3368,7 @@
     "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
     "originalUrl": "https://openai.com/index/cloudflare-cyber",
     "publishedAt": "2026-10-21T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3212,7 +3380,7 @@
     "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
     "originalUrl": "https://openai.com/index/empowering-cyber-defenders",
     "publishedAt": "2026-10-21T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3224,7 +3392,7 @@
     "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
     "originalUrl": "https://openai.com/index/ted-taylor-restaurant",
     "publishedAt": "2026-10-20T10:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3236,7 +3404,7 @@
     "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
     "originalUrl": "https://openai.com/index/terminal-x",
     "publishedAt": "2026-10-20T07:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3248,7 +3416,7 @@
     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
     "originalUrl": "https://openai.com/index/openai-to-acquire-orchestra-bio",
     "publishedAt": "2026-10-20T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3260,7 +3428,7 @@
     "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
     "originalUrl": "https://openai.com/index/low-resource-programming-languages",
     "publishedAt": "2026-10-19T12:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3272,7 +3440,7 @@
     "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees—in one of Brazil’s most regulated sectors.",
     "originalUrl": "https://openai.com/index/itau-generative-ai",
     "publishedAt": "2026-10-16T19:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3284,7 +3452,7 @@
     "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
     "originalUrl": "https://openai.com/index/localiza-generative-ai",
     "publishedAt": "2026-10-16T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3296,7 +3464,7 @@
     "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
     "originalUrl": "https://openai.com/index/grupo-boticario",
     "publishedAt": "2026-10-16T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3308,7 +3476,7 @@
     "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
     "originalUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "publishedAt": "2026-10-16T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3320,7 +3488,7 @@
     "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
     "originalUrl": "https://openai.com/index/benefit-street-partners",
     "publishedAt": "2026-10-16T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3332,7 +3500,7 @@
     "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
     "originalUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "publishedAt": "2026-10-15T19:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3344,7 +3512,7 @@
     "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
     "originalUrl": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
     "publishedAt": "2026-10-15T13:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3356,55 +3524,7 @@
     "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
     "originalUrl": "https://openai.com/index/sullivan-cromwell",
     "publishedAt": "2026-10-15T00:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "90a73dfbbc8ecd7da616",
-    "sourceId": "openai-blog",
-    "sourceName": "OpenAI 官方博客",
-    "sourceUrl": "https://openai.com/blog/",
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "originalUrl": "https://openai.com/index/amp-beyond-coding",
-    "publishedAt": "2026-10-14T12:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "a617ba0a867f1ee2156d",
-    "sourceId": "openai-blog",
-    "sourceName": "OpenAI 官方博客",
-    "sourceUrl": "https://openai.com/blog/",
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "originalUrl": "https://openai.com/index/sentinelone",
-    "publishedAt": "2026-10-14T12:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "7aaa9564b228677c5da4",
-    "sourceId": "openai-blog",
-    "sourceName": "OpenAI 官方博客",
-    "sourceUrl": "https://openai.com/blog/",
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "originalUrl": "https://openai.com/index/third-moment-research",
-    "publishedAt": "2026-10-14T07:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "8a0a3c1a2c14e660c401",
-    "sourceId": "openai-blog",
-    "sourceName": "OpenAI 官方博客",
-    "sourceUrl": "https://openai.com/blog/",
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "originalUrl": "https://openai.com/index/block-ai-powered-security",
-    "publishedAt": "2026-10-14T07:00:00Z",
-    "collectedAt": "2026-11-16T06:52:26.491934Z",
+    "collectedAt": "2026-11-16T16:31:22.795244Z",
     "contentAttribution": "source-feed"
   },
   {
@@ -3477,126 +3597,6 @@
     "originalUrl": "https://www.qbitai.com/2026/10/501506.html",
     "publishedAt": "2026-10-04T06:05:35Z",
     "collectedAt": "2026-10-06T09:03:31.784582Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "dafbb88001938e7f434c",
-    "sourceId": "qbitai",
-    "sourceName": "量子位",
-    "sourceUrl": "https://www.qbitai.com/",
-    "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-    "summary": "专业3D模型反而更稀缺了",
-    "originalUrl": "https://www.qbitai.com/2026/10/501451.html",
-    "publishedAt": "2026-10-04T00:53:29Z",
-    "collectedAt": "2026-10-06T09:03:31.784582Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "acbc6e55673a6f01f8a0",
-    "sourceId": "qbitai",
-    "sourceName": "量子位",
-    "sourceUrl": "https://www.qbitai.com/",
-    "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-    "summary": "岗位JD甩了篇技术报告",
-    "originalUrl": "https://www.qbitai.com/2026/10/501381.html",
-    "publishedAt": "2026-10-03T07:54:43Z",
-    "collectedAt": "2026-10-06T09:03:31.784582Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "63397877cbcd56beaed0",
-    "sourceId": "qbitai",
-    "sourceName": "量子位",
-    "sourceUrl": "https://www.qbitai.com/",
-    "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-    "summary": "又咋啦。。。",
-    "originalUrl": "https://www.qbitai.com/2026/10/501368.html",
-    "publishedAt": "2026-10-03T04:41:24Z",
-    "collectedAt": "2026-10-06T09:03:31.784582Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "536b51093722ed216b92",
-    "sourceId": "qbitai",
-    "sourceName": "量子位",
-    "sourceUrl": "https://www.qbitai.com/",
-    "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-    "summary": "",
-    "originalUrl": "https://www.qbitai.com/2026/10/500148.html",
-    "publishedAt": "2026-10-03T02:38:19Z",
-    "collectedAt": "2026-10-06T09:03:31.784582Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "1e7d5bcdbad7a09986f0",
-    "sourceId": "qbitai",
-    "sourceName": "量子位",
-    "sourceUrl": "https://www.qbitai.com/",
-    "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-    "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
-    "originalUrl": "https://www.qbitai.com/2026/10/500098.html",
-    "publishedAt": "2026-10-02T07:34:15Z",
-    "collectedAt": "2026-10-06T07:38:29.073534Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "a446e21e6a9de39bad58",
-    "sourceId": "qbitai",
-    "sourceName": "量子位",
-    "sourceUrl": "https://www.qbitai.com/",
-    "title": "丘成桐新论文致谢了GPT和Claude",
-    "summary": "44年前被亲自列入问题清单",
-    "originalUrl": "https://www.qbitai.com/2026/10/499991.html",
-    "publishedAt": "2026-10-02T07:27:03Z",
-    "collectedAt": "2026-10-05T12:03:45.479947Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "ecf9a5c3975eed14527b",
-    "sourceId": "qbitai",
-    "sourceName": "量子位",
-    "sourceUrl": "https://www.qbitai.com/",
-    "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-    "summary": "换区也没用",
-    "originalUrl": "https://www.qbitai.com/2026/10/499958.html",
-    "publishedAt": "2026-10-02T06:46:32Z",
-    "collectedAt": "2026-10-05T06:05:53.690789Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "68b844d47e42ceec1bc0",
-    "sourceId": "qbitai",
-    "sourceName": "量子位",
-    "sourceUrl": "https://www.qbitai.com/",
-    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-    "summary": "用ImageNet训练encoder",
-    "originalUrl": "https://www.qbitai.com/2026/10/499812.html",
-    "publishedAt": "2026-10-01T15:06:30Z",
-    "collectedAt": "2026-10-05T04:06:24.815363Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "c1d01dcbe749a31a94b5",
-    "sourceId": "qbitai",
-    "sourceName": "量子位",
-    "sourceUrl": "https://www.qbitai.com/",
-    "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-    "summary": "价格只有Astra一半",
-    "originalUrl": "https://www.qbitai.com/2026/10/499663.html",
-    "publishedAt": "2026-10-01T15:02:14Z",
-    "collectedAt": "2026-10-04T04:15:39.783494Z",
-    "contentAttribution": "source-feed"
-  },
-  {
-    "id": "4c373b4e8d973d9ca312",
-    "sourceId": "qbitai",
-    "sourceName": "量子位",
-    "sourceUrl": "https://www.qbitai.com/",
-    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-    "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-    "originalUrl": "https://www.qbitai.com/2026/09/499654.html",
-    "publishedAt": "2026-09-30T14:03:43Z",
-    "collectedAt": "2026-10-04T04:15:39.783494Z",
     "contentAttribution": "source-feed"
   }
 ]
